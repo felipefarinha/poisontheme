@@ -6,6 +6,7 @@ yarn-error.log*
 pnpm-debug.log*
 
 # TypeScript
+.vscode/
 dist/
 build/
 *.tsbuildinfo
@@ -22,3 +23,7 @@ build/
 logs
 *.log
 *.log*
+
+*.vsix
+.gitignore
+.gitattributes
