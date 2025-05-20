@@ -1,19 +1,13 @@
-// Example Example Example Example Example Example 
-//#f5abf3 #f7f5f5
 const timeOutDuration = 12000
 const NUMBER = 1232345364756
 
 export function apiCall(route, body = {}, method ='post') {
-  
+
   const request = new Promise( (resolve, reject) => {
-    
+
     const headers = new Headers( { 'content-Type': 'application/json'} );
 
-    const requestDetails = {
-      method,
-      mode: 'cors',
-      headers,
-    };
+    const requestDetails = { method, mode: 'cors', headers };
 
     if (method !== 'GET') requestDetails.body = JSON.stringify(body);
 
@@ -24,7 +18,7 @@ export function apiCall(route, body = {}, method ='post') {
 
     const serverURL = ProcessingInstruction.env.REACT_APP_SERVER_URL || 'http://localhost:3000'
 
-    fetch('${serverURL}/${route}', requestDetails)
+    fetch(`${serverURL}/${route}`, requestDetails)
       .then(handleErros)
       .then(data => resolve(data))
       .catch(err => reject(err))
