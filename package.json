@@ -1,8 +1,8 @@
 {
   "name": "poison-theme",
   "displayName": "Poison",
-  "description": "Dark theme Poison for Visual Studio Code.",
-  "version": "0.0.1",
+  "description": "Faça seu código brilhar com o tema Poison. Um tema escuro que vai deixar seu ambiente de desenvolvimento envenenado. Contamine seu VsCode",
+  "version": "0.0.3",
   "publisher": "Fahryn",
   "author": "FelipeFarinha",
   "icon": "assets/icon.png",
@@ -19,7 +19,11 @@
     "tema",
     "dark",
     "color scheme",
-    "poison"
+    "poison",
+    "dark theme",
+    "Fahryn",
+    "Ambience",
+    "Immortal"
   ],
   "engines": {
     "vscode": "^1.0.0"
