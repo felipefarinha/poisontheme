@@ -27,9 +27,9 @@
 
 <span style="text-align: center;">
 
-![print1](./public/print1.png)
-![print2](./public/print2.png)
-![print3](./public/print3.png)
+![Print 1](https://raw.githubusercontent.com/felipefarinha/poisontheme/main/public/print1.png)
+![Print 2](https://raw.githubusercontent.com/felipefarinha/poisontheme/main/public/print2.png)
+![Print 3](https://raw.githubusercontent.com/felipefarinha/poisontheme/main/public/print3.png)
 
 ![print1](https://raw.githubusercontent.com/felipefarinha/poisontheme/main/public/print1.png)
 
