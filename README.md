@@ -25,14 +25,13 @@
 
 ### Prévia do tema | Theme preview
 
-<span style="text-align: center;">
-
 ![Print 1](images/print1.png)
 ![Print 2](images/print2.png)
 ![Print 3](images/print3.png)
 ![Print 3](/images/print3.png)
 ![Print 3](/images/print3.png)
 
+<span style="text-align: center;">
 </span>
 
 </div>
