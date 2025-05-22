@@ -27,11 +27,11 @@
 
 <span style="text-align: center;">
 
-![print](public/print1.png)
+![print1](./public/print1.png)
+![print2](./public/print2.png)
+![print3](./public/print3.png)
 
-![print](public/print2.png)
-
-![print](public/print3.png)
+![print1](https://raw.githubusercontent.com/felipefarinha/poisontheme/main/public/print1.png)
 
 </span>
 
