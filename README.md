@@ -18,7 +18,7 @@
 
 <p align="center"><img src="./assets/icon.png" width="50" alt="Poison logo"/></p>
 <h3 align="center">Poison Dark Theme</h3>
-<h4 align="center">Contamine seu VsCode, envenene seus dedos</h4>
+<h4 align="center">Faça seu código brilhar com o tema Poison. Um tema escuro que vai deixar seu ambiente de desenvolvimento envenenado. Contamine seu VsCode</h4>
 
   <br />
   <br />
@@ -27,11 +27,11 @@
 
 <span style="text-align: center;">
 
-  <img src="https://raw.githubusercontent.com/felipefarinha/poisontheme/main/assets/print4.png" />
+![print](public/print1.png)
 
-  <img src="https://raw.githubusercontent.com/felipefarinha/poisontheme/main/assets/print5.png" />
+![print](public/print2.png)
 
-  <img src="https://raw.githubusercontent.com/felipefarinha/poisontheme/main/assets/print6.png" />
+![print](public/print3.png)
 
 </span>
 
