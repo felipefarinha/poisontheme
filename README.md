@@ -25,11 +25,9 @@
 
 ### Prévia do tema | Theme preview
 
-![Print 1](images/print1.png)
-![Print 2](images/print2.png)
-![Print 3](images/print3.png)
-![Print 3](/images/print3.png)
-![Print 3](/images/print3.png)
+![print 1](https://i.postimg.cc/TP0Qv2gj/print1.png)
+![print 1](https://i.postimg.cc/qRZLgmmz/print2.png)
+![print 1](https://i.postimg.cc/B6vpSWBr/print3.png)
 
 <span style="text-align: center;">
 </span>
