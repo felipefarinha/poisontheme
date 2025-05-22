@@ -1,8 +1,8 @@
 {
   "name": "poison-theme",
   "displayName": "Poison",
-  "description": "Dark theme Poison for Visual Studio Code. Contamine seu VsCode, envenene seus dedos",
-  "version": "0.0.3",
+  "description": "Dark theme Poison for Visual Studio Code. Contamine seu VsCode!",
+  "version": "0.0.4",
   "publisher": "Fahryn",
   "author": "FelipeFarinha",
   "icon": "assets/icon.png",

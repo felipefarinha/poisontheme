@@ -16,18 +16,23 @@
   <br />
   <br />
 
-<p align="center"><img src="./assets/icon.png" width="50" alt="Poison logo"/></p>
-<h3 align="center">Poison Dark Theme</h3>
-<h4 align="center">Faça seu código brilhar com o tema Poison. Um tema escuro que vai deixar seu ambiente de desenvolvimento envenenado. Contamine seu VsCode</h4>
+<p align="center"><img src="./assets/icon.png" width="70" alt="Poison logo"/></p>
+<h1 align="center">Poison Dark Theme</h1>
+<h4 align="center">Faça seu código brilhar com o tema Poison. Um tema escuro que vai deixar seu ambiente de desenvolvimento envenenado. </h4>
+<h4 align="center">Contamine seu VsCode!</h4>
 
   <br />
   <br />
 
 ### Prévia do tema | Theme preview
 
-![print 1](https://i.postimg.cc/TP0Qv2gj/print1.png)
-![print 1](https://i.postimg.cc/qRZLgmmz/print2.png)
-![print 1](https://i.postimg.cc/B6vpSWBr/print3.png)
+  <br />
+
+![print 1](https://i.postimg.cc/SsnJgMr4/print1.png)
+
+![print 1](https://i.postimg.cc/SsHj3xTM/print2.png)
+
+![print 1](https://i.postimg.cc/cCY6SG25/print3.png)
 
 <span style="text-align: center;">
 </span>
